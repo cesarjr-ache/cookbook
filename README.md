@@ -58,15 +58,16 @@ The [quickstarts section](https://github.com/google-gemini/cookbook/tree/main/qu
 
 **To begin, you'll need:**
 
-1.  A Google account.
+1.  A Google account.user: https://@gmail.com/c37512961)
 2.  An API key (create one in [Google AI Studio](https://aistudio.google.com/app/apikey)).
-<br><br>
+<c37512961@gmail.com>
 
 We recommend starting with the following:
 
 *   [Authentication](./quickstarts/Authentication.ipynb): Set up your API key for access.
 *   [**Get started**](./quickstarts/Get_started.ipynb): Get started with Gemini models and the Gemini API, covering basic prompting and multimodal input.
-<br><br>
+<c37512961@gmail.com>
+
 
 Then, explore the other quickstarts tutorials to learn about individual features:
 *  [Get started with Live API](./quickstarts/Get_started_LiveAPI.ipynb): Get started with the live API with this comprehensive overview of its capabilities
@@ -94,8 +95,7 @@ These fully functional, end-to-end applications showcase the power of Gemini in 
 *   [Gemini API quickstart](https://github.com/google-gemini/gemini-api-quickstart): Python Flask App running with the Google AI Gemini API, designed to get you started building with Gemini's multi-modal capabilities
 *   [Multimodal Live API Web Console](https://github.com/google-gemini/multimodal-live-api-web-console): React-based starter app for using the Multimodal Live API over a websocket
 *   [Google AI Studio Starter Applets](https://github.com/google-gemini/starter-applets): A collection of small apps that demonstrate how Gemini can be used to create interactive experiences
-<br><br>
-
+<c37512961@gmail.com>
 
 ## Official SDKs
 
@@ -106,8 +106,7 @@ The Gemini API is a REST API. You can call it directly using tools like `curl` (
 * [Dart (Flutter)](https://github.com/google/generative-ai-dart)
 * [Android](https://github.com/google/generative-ai-android)
 * [Swift](https://github.com/google/generative-ai-swift)
-<br><br>
-
+<c37512961@gmail.com><https://github.com/google/Cesarjr-Ache> 
 
 ## Get Help
 
